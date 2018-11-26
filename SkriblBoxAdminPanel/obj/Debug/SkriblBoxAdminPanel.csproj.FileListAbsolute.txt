@@ -1,0 +1,376 @@
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\roslyn\csc.exe
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\roslyn\System.Collections.Immutable.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\roslyn\System.Reflection.Metadata.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\roslyn\vbc.exe
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\roslyn\VBCSCompiler.exe
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\roslyn\VBCSCompiler.exe.config
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\BasketWebPanel.dll.config
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\BasketWebPanel.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\BasketWebPanel.pdb
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Antlr3.Runtime.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\EntityFramework.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\EntityFramework.SqlServer.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Google.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Web.Infrastructure.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Newtonsoft.Json.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Owin.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Net.Http.Formatting.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.Helpers.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.Http.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.Http.WebHost.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.Mvc.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.Optimization.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.Razor.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Deployment.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Razor.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\WebGrease.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Net.Http.Formatting.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.Http.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.Http.WebHost.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.Helpers.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.Mvc.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.Optimization.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.Razor.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Deployment.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Razor.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Antlr3.Runtime.pdb
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Newtonsoft.Json.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\EntityFramework.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\EntityFramework.SqlServer.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Google.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\obj\Debug\BasketWebPanel.dll
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\obj\Debug\BasketWebPanel.pdb
+E:\Git\SkribleBoxWebPanel\SkriblBoxAdminPanel\obj\Debug\SkriblBoxAdminPanel.csprojResolveAssemblyReference.cache
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\csc.exe
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\System.Collections.Immutable.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\System.Reflection.Metadata.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\vbc.exe
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\VBCSCompiler.exe
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\VBCSCompiler.exe.config
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\BasketWebPanel.dll.config
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\BasketWebPanel.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\BasketWebPanel.pdb
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Antlr3.Runtime.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\EntityFramework.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\EntityFramework.SqlServer.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Google.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Web.Infrastructure.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Newtonsoft.Json.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Owin.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Net.Http.Formatting.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Helpers.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Http.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Http.WebHost.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Mvc.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Optimization.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Razor.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Deployment.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Razor.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\WebGrease.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Net.Http.Formatting.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Http.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Http.WebHost.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Helpers.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Mvc.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Optimization.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Razor.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Deployment.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Razor.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Antlr3.Runtime.pdb
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Newtonsoft.Json.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\EntityFramework.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\EntityFramework.SqlServer.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Google.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\obj\Debug\SkriblBoxAdminPanel.csprojResolveAssemblyReference.cache
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\obj\Debug\BasketWebPanel.dll
+D:\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\obj\Debug\BasketWebPanel.pdb
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\csc.exe
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\System.Collections.Immutable.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\System.Reflection.Metadata.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\vbc.exe
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\VBCSCompiler.exe
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\VBCSCompiler.exe.config
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\BasketWebPanel.dll.config
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\BasketWebPanel.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\BasketWebPanel.pdb
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Antlr3.Runtime.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\EntityFramework.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\EntityFramework.SqlServer.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Core.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Cookies.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Facebook.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Google.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.OAuth.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Twitter.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Web.Infrastructure.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Newtonsoft.Json.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Owin.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Net.Http.Formatting.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Helpers.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Http.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Http.WebHost.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Mvc.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Optimization.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Razor.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Deployment.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Razor.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\WebGrease.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Net.Http.Formatting.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Http.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Http.WebHost.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Helpers.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Mvc.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Optimization.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Razor.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Deployment.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Razor.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Antlr3.Runtime.pdb
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Newtonsoft.Json.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\EntityFramework.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\EntityFramework.SqlServer.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Core.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Facebook.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Cookies.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.OAuth.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Google.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Twitter.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\obj\Debug\BasketWebPanel.dll
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\obj\Debug\BasketWebPanel.pdb
+F:\VS\GitRepository\SkriblBoxAdminPanel\SkriblBoxAdminPanel\obj\Debug\SkriblBoxAdminPanel.csprojResolveAssemblyReference.cache
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\csc.exe
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\System.Collections.Immutable.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\vbc.exe
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\VBCSCompiler.exe
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\VBCSCompiler.exe.config
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\BasketWebPanel.dll.config
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\BasketWebPanel.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\BasketWebPanel.pdb
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Antlr3.Runtime.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\EntityFramework.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\EntityFramework.SqlServer.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Google.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Newtonsoft.Json.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Owin.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Net.Http.Formatting.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Helpers.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Http.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Http.WebHost.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Mvc.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Optimization.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Razor.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Razor.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\WebGrease.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Net.Http.Formatting.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Http.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Http.WebHost.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Helpers.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Mvc.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Optimization.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Razor.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Razor.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Antlr3.Runtime.pdb
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Newtonsoft.Json.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\EntityFramework.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\EntityFramework.SqlServer.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Google.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\obj\Debug\SkriblBoxAdminPanel.csprojResolveAssemblyReference.cache
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\obj\Debug\BasketWebPanel.dll
+F:\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\obj\Debug\BasketWebPanel.pdb
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\csc.exe
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\System.Collections.Immutable.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\vbc.exe
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\VBCSCompiler.exe
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\roslyn\VBCSCompiler.exe.config
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\BasketWebPanel.dll.config
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\BasketWebPanel.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\BasketWebPanel.pdb
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Antlr3.Runtime.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\EntityFramework.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\EntityFramework.SqlServer.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Google.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Web.Infrastructure.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Newtonsoft.Json.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Owin.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Net.Http.Formatting.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Helpers.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Http.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Http.WebHost.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Mvc.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Optimization.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Razor.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Deployment.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Razor.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\WebGrease.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Net.Http.Formatting.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Http.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Http.WebHost.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Helpers.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Mvc.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Optimization.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.Razor.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Deployment.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\System.Web.WebPages.Razor.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Antlr3.Runtime.pdb
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Newtonsoft.Json.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\EntityFramework.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\EntityFramework.SqlServer.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Google.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\obj\Debug\SkriblBoxAdminPanel.csprojResolveAssemblyReference.cache
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\obj\Debug\SkriblBoxAdminPanel.csproj.CoreCompileInputs.cache
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\obj\Debug\BasketWebPanel.dll
+C:\Driver B\Projects\Skribl\SkriblBoxAdminPanel\SkriblBoxAdminPanel\obj\Debug\BasketWebPanel.pdb
