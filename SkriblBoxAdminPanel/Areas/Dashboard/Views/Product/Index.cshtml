@@ -58,17 +58,47 @@
                         </div>
                         <div class="row">
                             <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                                <label>Category</label>
-                                @Html.DropDownList("Product.Category_Id", new SelectList(Model.CategoryOptions.Items,
-                            "value", "Text", Model.CategoryOptions.SelectedValue), new { @class = "form-control" })
-                                @Html.ValidationMessageFor(x => x.Product.Category_Id, "", new { @class = "text-danger" })
+                                <label>Discount Price</label>
+                                <input type="text" autofocus data-val="true" class="form-control input-validation-error" name="Product.DiscountPrice" id="DiscountPrice" data-val-required="This field is required" placeholder="Discount Price" value="@Model.Product.DiscountPrice">
+                                @Html.ValidationMessageFor(m => m.Product.DiscountPrice, "", new { @class = "text-danger" })
                             </div>
+                            <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
+                                <label>Discount Percentage</label>
+                                @* <input type="text" data-val="true" class="form-control input-validation-error" name="Price" id="Price" data-val-required="Price is required" placeholder="Product Price" value="@Model.Price">*@
+                                @Html.TextBoxFor(x => x.Product.DiscountPercentage, new { @class = "form-control", @id = "Price", @placeholder = "Discount Percentage", @type = "text" })
+                                @Html.ValidationMessageFor(m => m.Product.DiscountPercentage, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
+                               <label>Category</label>
+                               @Html.DropDownList("Product.Category_Id", new SelectList(Model.CategoryOptions.Items,
+        "value", "Text", Model.CategoryOptions.SelectedValue), new { @class = "form-control",onChange= "AddProduct_OnStoreChange()" })
+                               @Html.ValidationMessageFor(x => x.Product.Category_Id, "", new { @class = "text-danger" })
+                           </div>
+
+
+                            @*<div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
+                                <label>Category</label>
+                                @Html.DropDownList("Product.Store_Id", new SelectList(Model.CategoryOptions.Items,
+"value", "Text", Model.CategoryOptions.SelectedValue), new { @class = "form-control", onChange = "AddProduct_OnStoreChange()" })
+                                @Html.ValidationMessageFor(x => x.Product.Category_Id, "", new { @class = "text-danger" })
+                            </div>*@
+
+                            <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
+                                <label>Store</label>
+                                @Html.DropDownList("Product.Store_Id", new SelectList(Model.StoreOptions.Items,
+"value", "Text", Model.StoreOptions.SelectedValue), new { @class = "form-control" })
+                                @Html.ValidationMessageFor(x => x.Product.Store_Id, "", new { @class = "text-danger" })
+                            </div>
+
+
                         </div>
                         <div class="row">
                             <div class="col-xs-12 col-md-12 col-xs-12">
                                 <!-- image-preview-filename input [CUT FROM HERE]-->
                                 @*@if (Model.Product.Id == 0)
-                                    {*@
+                {*@
                                 <div id="UploadImage" hidden>
                                     <label>Upload Product Image</label>
                                     <div>
@@ -92,8 +122,8 @@
                                     <!-- /input-group image-preview [TO HERE]-->
                                 </div>
                                 @*}
-                                    else
-                                    {*@
+                else
+                {*@
                                 <div id="EditImage" hidden>
                                     <label>Product Image</label>
                                     <div class="row">
@@ -252,10 +282,10 @@
     }
 
     function AddProduct_OnStoreChange() {
-        var url = '@Url.Action("FetchCategories", "Product")'
-        var categories = $('#Product_Category_Id');
-        var catId = $('#Product.Category_Id').val();
-        $.getJSON(url, { StoreId: $("#Product_Store_Id").val() }, function (response) {
+        var url = '@Url.Action("FetchStores", "Product")'
+        var categories = $('#Product_Store_Id');
+        var catId = $('#Product_Category_Id').val();
+        $.getJSON(url, { CategoryId: $("#Product_Category_Id").val() }, function (response) {
             categories.empty();
             $.each(response, function (index, item) {
                 categories.append($('<option></option>').text(item.Name).val(item.Id));

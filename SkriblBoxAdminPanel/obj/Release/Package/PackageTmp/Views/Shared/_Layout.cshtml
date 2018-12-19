@@ -149,34 +149,34 @@
                                     <a href="@Url.Action("Index","Home")"><i class="fa fa-home"></i> Dashboard</a>
                                 </li>
                                 @if (Model.Role == Utility.RoleTypes.SuperAdmin)
-                                {
+    {
+                            <li>
+                                <a><i class="fa fa-sitemap"></i> Brand <span class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
                                     <li>
-                                        <a><i class="fa fa-sitemap"></i> Brand <span class="fa fa-chevron-down"></span></a>
-                                        <ul class="nav child_menu">
-                                            <li>
-                                                <a href="@Url.Action("Index","Box")">Add New Brand</a>
-                                                <a href="@Url.Action("ManageBoxes","Box")">Manage Brand</a>
-                                            </li>
-                                        </ul>
+                                        <a href="@Url.Action("Index","Box")">Add New Merchant</a>
+                                        <a href="@Url.Action("ManageBoxes","Box")">Manage Merchant</a>
                                     </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a><i class="fa fa-sitemap"></i> Categories <span class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
                                     <li>
-                                        <a><i class="fa fa-sitemap"></i> Categories <span class="fa fa-chevron-down"></span></a>
-                                        <ul class="nav child_menu">
-                                            <li>
-                                                <a href="@Url.Action("Index","Categories")">Add New Category</a>
-                                                <a href="@Url.Action("ManageCategories","Categories")">Manage Categories</a>
-                                            </li>
-                                        </ul>
+                                        <a href="@Url.Action("Index","Categories")">Add New Category</a>
+                                        <a href="@Url.Action("ManageCategories","Categories")">Manage Categories</a>
                                     </li>
-                                }
+                                </ul>
+                            </li>
+}
                                 <li>
                                     <a><i class="fa fa-users"></i> Branch <span class="fa fa-chevron-down"></span></a>
                                     <ul class="nav child_menu">
                                         <li><a href="@Url.Action("Index","Stores")">Add New Branch</a></li>
                                         @if (Model.Role == Utility.RoleTypes.SuperAdmin)
-                                        {
-                                            <li><a href="@Url.Action("ManageStores", "Stores")">View Branch</a></li>
-                                        }
+            {
+                            <li><a href="@Url.Action("ManageStores", "Stores")">Manage Branch</a></li>
+}
                                     </ul>
                                 </li>
                                 <li>
@@ -188,37 +188,37 @@
                                         </li>
                                     </ul>
                                     @*</li>
-                                        <li>
-                                            <a><i class="fa fa-sitemap"></i> Subscriptions <span class="fa fa-chevron-down"></span></a>
-                                            <ul class="nav child_menu">
-                                                <li>
-                                                    <a href="@Url.Action("Index","Categories")">View Subscriptions</a>
-                                                    <a href="@Url.Action("ManageSubscriptions","Subscription")">View Subscriptions</a>
-                                                </li>
-                                            </ul>
-                                        </li>
+            <li>
+                <a><i class="fa fa-sitemap"></i> Subscriptions <span class="fa fa-chevron-down"></span></a>
+                <ul class="nav child_menu">
+                    <li>
+                        <a href="@Url.Action("Index","Categories")">View Subscriptions</a>
+                        <a href="@Url.Action("ManageSubscriptions","Subscription")">View Subscriptions</a>
+                    </li>
+                </ul>
+            </li>
 
-                                        <li>
-                                            <a><i class="fa fa-edit"></i> Orders <span class="fa fa-chevron-down"></span></a>
-                                            <ul class="nav child_menu">
-                                                <li><a href="@Url.Action("ManageOrders","Orders")">Manage Orders</a></li>
-                                            </ul>
-                                        </li>*@
+            <li>
+                <a><i class="fa fa-edit"></i> Orders <span class="fa fa-chevron-down"></span></a>
+                <ul class="nav child_menu">
+                    <li><a href="@Url.Action("ManageOrders","Orders")">Manage Orders</a></li>
+                </ul>
+            </li>*@
                                     @*/////Delivery*@
                                     @*@if (Model.Role == Utility.RoleTypes.SuperAdmin)
-                                        {
-                                            <li>
-                                                <a><i class="fa fa-truck"></i> Delivery<span class="fa fa-chevron-down"></span></a>
-                                                <ul class="nav child_menu">
-                                                    <li>
+            {
+                <li>
+                    <a><i class="fa fa-truck"></i> Delivery<span class="fa fa-chevron-down"></span></a>
+                    <ul class="nav child_menu">
+                        <li>
 
-                                                        <a href="@Url.Action("Index", "Delivery")">Assign Orders to DeliveryMen</a>
+                            <a href="@Url.Action("Index", "Delivery")">Assign Orders to DeliveryMen</a>
 
 
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                        }*@
+                        </li>
+                    </ul>
+                </li>
+            }*@
                                     @*/////Users*@
                                 <li>
                                     <a><i class="fa fa-users"></i> Admins <span class="fa fa-chevron-down"></span></a>
@@ -229,52 +229,59 @@
 
                                 @*/////Users*@
                                 @if (Model.Role == Utility.RoleTypes.SuperAdmin)
-                                {
-                                    @*Notifications*@
-                                    <li>
-                                        <a><i class="fa fa-bell"></i> Notifications <span class="fa fa-chevron-down"></span></a>
-                                        <ul class="nav child_menu">
-                                            <li><a href="@Url.Action("Index","Notifications")">Add New Notifications</a></li>
-                                            <li><a href="@Url.Action("ManageNotifications", "Notifications")">View Notifications</a></li>
-                                        </ul>
-                                    </li>
-                                }
-                                @*<li>
-                                        <a href="@Url.Action("Index","Videos")"><i class="fa fa-question-circle-o"></i> How It Works</a>
-                                    </li>*@
+    {
+                            @*Notifications*@
+                            <li>
+                                <a><i class="fa fa-bell"></i> Notifications <span class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li><a href="@Url.Action("Index","Notifications")">Add New Notifications</a></li>
+                                    <li><a href="@Url.Action("ManageNotifications", "Notifications")">Manage Notifications</a></li>
+                                </ul>
+                            </li>
+}
+                            @*<li>
+        <a href="@Url.Action("Index","Videos")"><i class="fa fa-question-circle-o"></i> How It Works</a>
+    </li>*@
                                 @if (Model.Role == Utility.RoleTypes.SuperAdmin)
-                                {
-                                    <li>
-                                        <a><i class="fa fa-users"></i> App Users<span class="fa fa-chevron-down"></span></a>
-                                        <ul class="nav child_menu">
-                                            <li> <a href="@Url.Action("ManageUsers", "Users")">View Users</a> </li>
-                                        </ul>
-                                    </li>
-                                }
-                                @*<li>
-                                        <a><i class="fa fa-newspaper-o"></i>Posts<span class="fa fa-chevron-down"></span></a>
-                                        <ul class="nav child_menu">
-                                            <li><a href="@Url.Action("Index","Posts")">Add New Post</a></li>
-                                            <li> <a href="@Url.Action("ManagePosts","Posts")">Manage Posts</a> </li>
-                                        </ul>
-                                    </li>*@
+    {
+                            <li>
+                                <a><i class="fa fa-users"></i> App Users<span class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li> <a href="@Url.Action("ManageUsers", "Users")">Manage Users</a> </li>
+                                </ul>
+                            </li>
 
-                                @*<li>
-                                        <a><i class="fa fa-cog"></i>Settings<span class="fa fa-chevron-down"></span></a>
-                                        <ul class="nav child_menu">
-                                            <li> <a href="@Url.Action("Index","Settings")">View Settings</a> </li>
-                                        </ul>
-                                    </li>*@
+                            <li>
+                                <a><i class="fa fa-credit-card"></i>Aladdin Request's<span class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li> <a href="@Url.Action("ManageRequests", "Product")">Manage Requests</a> </li>
+                                </ul>
+                            </li>
+}
+                            @*<li>
+        <a><i class="fa fa-newspaper-o"></i>Posts<span class="fa fa-chevron-down"></span></a>
+        <ul class="nav child_menu">
+            <li><a href="@Url.Action("Index","Posts")">Add New Post</a></li>
+            <li> <a href="@Url.Action("ManagePosts","Posts")">Manage Posts</a> </li>
+        </ul>
+    </li>*@
+
+                            @*<li>
+        <a><i class="fa fa-cog"></i>Settings<span class="fa fa-chevron-down"></span></a>
+        <ul class="nav child_menu">
+            <li> <a href="@Url.Action("Index","Settings")">View Settings</a> </li>
+        </ul>
+    </li>*@
 
 
-                                @*/////Setiings*@
-                                @*<li>
-                                        <a><i class="fa fa-gears"></i> Settings <span class="fa fa-chevron-down"></span></a>
-                                        <ul class="nav child_menu">
-                                            <li><a href="@Url.Action("GeneralSettings","Settings")">General Settings</a></li>
-                                            <li><a href="#">Customer Settings</a></li>
-                                        </ul>
-                                    </li>*@
+                            @*/////Setiings*@
+                            @*<li>
+        <a><i class="fa fa-gears"></i> Settings <span class="fa fa-chevron-down"></span></a>
+        <ul class="nav child_menu">
+            <li><a href="@Url.Action("GeneralSettings","Settings")">General Settings</a></li>
+            <li><a href="#">Customer Settings</a></li>
+        </ul>
+    </li>*@
 
                             </ul>
                         </div>

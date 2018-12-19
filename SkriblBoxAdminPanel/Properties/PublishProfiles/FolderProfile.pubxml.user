@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\Driver B\Projects\Deployment\AladdinAdmin</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\Driver B\Projects\live\Admin</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="Areas/Dashboard/Views/Admin/Index.cshtml">
@@ -28,10 +28,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/27/2017 13:12:06</publishTime>
     </File>
     <File Include="Areas/Dashboard/Views/Box/Index.cshtml">
-      <publishTime>11/25/2018 16:03:54</publishTime>
+      <publishTime>12/08/2018 18:58:35</publishTime>
     </File>
     <File Include="Areas/Dashboard/Views/Box/ManageBoxes.cshtml">
-      <publishTime>11/27/2017 13:12:06</publishTime>
+      <publishTime>12/08/2018 19:59:49</publishTime>
     </File>
     <File Include="Areas/Dashboard/Views/Categories/Index.cshtml">
       <publishTime>11/20/2018 00:31:57</publishTime>
@@ -55,7 +55,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/27/2017 13:12:06</publishTime>
     </File>
     <File Include="Areas/Dashboard/Views/Home/Index.cshtml">
-      <publishTime>11/27/2017 13:12:06</publishTime>
+      <publishTime>12/16/2018 22:11:17</publishTime>
     </File>
     <File Include="Areas/Dashboard/Views/Home/ResetPassword.cshtml">
       <publishTime>11/27/2017 13:12:06</publishTime>
@@ -130,19 +130,22 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/27/2017 13:12:06</publishTime>
     </File>
     <File Include="Areas/Dashboard/Views/Product/Index.cshtml">
-      <publishTime>11/27/2017 13:12:06</publishTime>
+      <publishTime>12/14/2018 02:14:21</publishTime>
     </File>
     <File Include="Areas/Dashboard/Views/Product/ManageProducts.cshtml">
-      <publishTime>11/21/2018 01:56:07</publishTime>
+      <publishTime>12/17/2018 00:05:13</publishTime>
+    </File>
+    <File Include="Areas/Dashboard/Views/Product/ManageRequests.cshtml">
+      <publishTime>11/25/2018 23:21:32</publishTime>
     </File>
     <File Include="Areas/Dashboard/Views/Product/_AddProduct.cshtml">
       <publishTime>12/27/2017 09:54:35</publishTime>
     </File>
     <File Include="Areas/Dashboard/Views/Product/_SearchProduct.cshtml">
-      <publishTime>11/27/2017 13:12:06</publishTime>
+      <publishTime>12/16/2018 23:59:10</publishTime>
     </File>
     <File Include="Areas/Dashboard/Views/Product/_SearchProductResults.cshtml">
-      <publishTime>12/12/2017 15:42:42</publishTime>
+      <publishTime>12/16/2018 23:55:46</publishTime>
     </File>
     <File Include="Areas/Dashboard/Views/Settings/Index.cshtml">
       <publishTime>12/27/2017 10:36:53</publishTime>
@@ -190,139 +193,139 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/27/2017 13:12:06</publishTime>
     </File>
     <File Include="bin/Antlr3.Runtime.dll">
-      <publishTime>11/27/2017 13:12:09</publishTime>
+      <publishTime>02/22/2013 08:43:40</publishTime>
     </File>
     <File Include="bin/Antlr3.Runtime.pdb">
-      <publishTime>11/27/2017 13:12:09</publishTime>
+      <publishTime>02/22/2013 08:43:40</publishTime>
     </File>
     <File Include="bin/BasketWebPanel.dll">
-      <publishTime>11/25/2018 17:38:12</publishTime>
+      <publishTime>12/17/2018 00:11:24</publishTime>
     </File>
     <File Include="bin/BasketWebPanel.pdb">
-      <publishTime>11/25/2018 17:38:12</publishTime>
+      <publishTime>12/17/2018 00:11:24</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>03/02/2015 09:32:26</publishTime>
     </File>
     <File Include="bin/EntityFramework.SqlServer.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>03/02/2015 09:32:26</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>04/03/2015 17:07:22</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>04/03/2015 17:07:22</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>04/03/2015 17:07:22</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>06/15/2015 02:06:24</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>02/13/2015 13:16:30</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>02/13/2015 13:16:34</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>02/13/2015 13:16:38</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>02/13/2015 13:16:36</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>02/13/2015 13:16:38</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.Google.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>02/13/2015 13:16:38</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>02/13/2015 13:16:40</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>02/13/2015 13:16:40</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>02/13/2015 13:16:42</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>07/25/2012 11:48:56</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>08/03/2014 20:33:56</publishTime>
     </File>
     <File Include="bin/Owin.dll">
-      <publishTime>11/27/2017 13:12:15</publishTime>
+      <publishTime>11/13/2012 12:19:34</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>06/18/2015 20:19:46</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>06/18/2015 20:19:46</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>06/18/2015 20:19:46</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>06/18/2015 20:19:44</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>06/18/2015 20:19:46</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>06/18/2015 20:19:46</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>06/18/2015 20:19:46</publishTime>
     </File>
     <File Include="bin/roslyn/System.Collections.Immutable.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>06/18/2015 20:19:46</publishTime>
     </File>
     <File Include="bin/roslyn/System.Reflection.Metadata.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>06/18/2015 20:19:46</publishTime>
     </File>
     <File Include="bin/roslyn/vbc.exe">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>06/18/2015 20:19:46</publishTime>
     </File>
     <File Include="bin/roslyn/VBCSCompiler.exe">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>06/18/2015 20:19:46</publishTime>
     </File>
     <File Include="bin/roslyn/VBCSCompiler.exe.config">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>06/18/2015 20:19:46</publishTime>
     </File>
     <File Include="bin/System.Net.Http.Formatting.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>01/28/2015 04:02:42</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>01/28/2015 04:04:30</publishTime>
     </File>
     <File Include="bin/System.Web.Http.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>01/28/2015 04:02:54</publishTime>
     </File>
     <File Include="bin/System.Web.Http.WebHost.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>01/28/2015 04:03:46</publishTime>
     </File>
     <File Include="bin/System.Web.Mvc.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>01/28/2015 04:02:18</publishTime>
     </File>
     <File Include="bin/System.Web.Optimization.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>02/11/2014 15:26:04</publishTime>
     </File>
     <File Include="bin/System.Web.Razor.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>01/28/2015 04:02:32</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.Deployment.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>01/28/2015 04:04:30</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>01/28/2015 04:04:30</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.Razor.dll">
-      <publishTime>11/27/2017 13:12:10</publishTime>
+      <publishTime>01/28/2015 04:04:30</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
-      <publishTime>11/27/2017 13:12:15</publishTime>
+      <publishTime>07/17/2013 17:03:52</publishTime>
     </File>
     <File Include="Content/admin-custom/css/custom.css">
       <publishTime>11/27/2017 13:12:06</publishTime>
@@ -2914,7 +2917,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/27/2017 13:12:07</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>11/25/2018 15:22:34</publishTime>
+      <publishTime>12/02/2018 23:32:16</publishTime>
     </File>
     <File Include="Views/Shared/_LoginPartial.cshtml">
       <publishTime>11/27/2017 13:12:07</publishTime>
@@ -2926,7 +2929,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/27/2017 13:12:07</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>11/25/2018 17:35:16</publishTime>
+      <publishTime>12/13/2018 01:23:00</publishTime>
     </File>
   </ItemGroup>
 </Project>

@@ -67,10 +67,7 @@
                                                 <th style="vertical-align:middle" width="20px"><input id="mastercheckbox" type="checkbox"></th>
                                                 <th style="vertical-align:middle">ID</th>
                                                 <th style="vertical-align:middle">Name</th>
-                                                <th style="vertical-align:middle">Box Type</th>
-                                                <th style="vertical-align:middle">Price</th>
-                                                <th style="vertical-align:middle">Release Date</th>
-                                                <th style="vertical-align:middle">Created Date</th>
+                                                <th style="vertical-align:middle">Brand Category</th>
                                                 <th style="vertical-align:middle">Status</th>
                                                 <th style="vertical-align:middle">Edit</th>
                                                 <th style="vertical-align:middle">Delete</th>
@@ -83,11 +80,8 @@
                                                 <tr>
                                                     <td style="vertical-align:middle" data-boxstatus="@Model.Boxes[i].Status" data-index="@i" id="@Model.Boxes[i].Id">@Html.CheckBoxFor(x => Model.Boxes[i].IsChecked, new { @BOXID = Model.Boxes[i].Id, @class = "checkBoxClass" })</td>
                                                     <td style="vertical-align:middle">@Model.Boxes[i].Id</td>
-                                                    <td style="vertical-align:middle">@Model.Boxes[i].Name</td>
-                                                    <td style="vertical-align:middle">@Model.Boxes[i].CategoryName</td>
-                                                    <td style="vertical-align:middle">@Model.Boxes[i].Price</td>
-                                                    <td style="vertical-align:middle">@Model.Boxes[i].ReleaseDate</td>
-                                                    <td style="vertical-align:middle">@Model.Boxes[i].CreatedDate</td>
+                                                    <td style="vertical-align:middle">@Model.Boxes[i].Name</td>     
+                                                    <td style="vertical-align:middle">@Model.Boxes[i].Category.Name</td>
                                                     <td style="vertical-align:middle">
                                                         <div class="btn-group">
                                                             <button type="button" class="btn btn-success btn-sm dropdown-toggle" id="@("btnBoxStatus_" + i)" data-toggle="dropdown" value="@Model.Boxes[i].IsDeleted" style="border-color:white" aria-haspopup="true" aria-expanded="false">

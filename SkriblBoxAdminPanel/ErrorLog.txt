@@ -798,3 +798,8 @@ MessageObject reference not set to an instance of an object.
 
 StackTrace   at BasketWebPanel.Areas.Dashboard.Controllers.BoxController.Index(Nullable`1 BoxId)
 ------******------
+
+MessageObject reference not set to an instance of an object.
+
+StackTrace   at BasketWebPanel.Areas.Dashboard.Controllers.BoxController.ManageBoxes() in C:\Driver B\Projects\Skribl\AladdinCard\SkriblBoxAdminPanel\AladdinCardAdmin\SkriblBoxAdminPanel\Areas\Dashboard\Controllers\BoxController.cs:line 90
+------******------

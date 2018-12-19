@@ -76,7 +76,7 @@ namespace BasketWebPanel.Areas.Dashboard.Controllers
 
             if (ProductId.HasValue)
             {
-                var responseProduct = AsyncHelpers.RunSync<JObject>(() => ApiCall.CallApi("api/GetEntityById", User, null, true, false, null, "EntityType=" + (int)BasketEntityTypes.Product, "Id=" + ProductId.Value));
+                var responseProduct = AsyncHelpers.RunSync<JObject>(() => ApiCall.CallApi("api/Admin/GetEntityById", User, null, true, false, null, "EntityType=" + (int)BasketEntityTypes.Product, "Id=" + ProductId.Value));
                 if (responseProduct == null || responseProduct is Error)
                     ;
                 else
@@ -87,6 +87,8 @@ namespace BasketWebPanel.Areas.Dashboard.Controllers
 
             //Providing CategoryList
             model.CategoryOptions = Utility.GetCategoryOptions(User, "None");
+            model.StoreOptions= Utility.GetStoresOptions(User, "None");
+
 
             model.WeightOptions = Utility.GetWeightOptions();
 
@@ -154,7 +156,9 @@ namespace BasketWebPanel.Areas.Dashboard.Controllers
                 content.Add(new StringContent(model.Product.Category_Id.ToString()), "Category_Id");
                 content.Add(new StringContent(model.Product.Store_Id.ToString()), "Store_Id");
                 content.Add(new StringContent(model.Product.Description), "Description");
-                
+                content.Add(new StringContent(Convert.ToString(model.Product.DiscountPrice)), "DiscountPrice");
+                content.Add(new StringContent(Convert.ToString(model.Product.DiscountPercentage)), "DiscountPercentage");
+
 
                 content.Add(new StringContent(Convert.ToString(ImageDeletedOnEdit)), "ImageDeletedOnEdit");
                 response = await ApiCall.CallApi("api/Admin/AddProduct", User, isMultipart: true, multipartContent: content);
@@ -232,7 +236,7 @@ namespace BasketWebPanel.Areas.Dashboard.Controllers
         public ActionResult SearchProductResults(SearchProductModel model)
         {
             SearchProductsViewModel returnModel = new SearchProductsViewModel();
-            var response = AsyncHelpers.RunSync<JObject>(() => ApiCall.CallApi("api/Admin/SearchProducts", User, null, true, false, null, "ProductName=" + model.ProductName + "", "ProductPrice=" + model.ProductPrice, "CategoryName=" + model.CategoryName + "", "StoreId=" + Global.StoreId));
+            var response = AsyncHelpers.RunSync<JObject>(() => ApiCall.CallApi("api/GetAllOffers", User, null, true));
             if (response is Error)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.InternalServerError, (response as Error).ErrorMessage);
@@ -266,6 +270,23 @@ namespace BasketWebPanel.Areas.Dashboard.Controllers
             Global.sharedDataModel.SetSharedData(User);
             return View(Global.sharedDataModel);
         }
+
+        public JsonResult FetchStores(int CategoryId) // its a GET, not a POST
+        {
+            var response = AsyncHelpers.RunSync<JObject>(() => ApiCall.CallApi("api/Admin/GetStoreByCategoryIdForAdmin", User, GetRequest: true, parameters: "Category_Id=" + CategoryId));
+            var responseCategories = response.GetValue("Result").ToObject<List<StoreViewModel>>();
+            var tempCats = responseCategories.ToList();
+
+            //foreach (var cat in responseCategories)
+            //{
+            //    cat.Name = cat.GetFormattedBreadCrumb(tempCats);
+            //}
+
+            responseCategories.Insert(0, new StoreViewModel { Id = 0, Name = "None" });
+
+            return Json(responseCategories, JsonRequestBehavior.AllowGet);
+        }
+
 
     }
 }

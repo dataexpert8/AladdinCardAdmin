@@ -46,7 +46,7 @@
 @Scripts.Render("~/bundles/jquery")
 <script>
     $(document).ready(function () {
-        OnSubmit();
+        //OnSubmit();
         setTimeout(
 function () {
     if ($('#success-alert') != null) {
@@ -57,9 +57,5 @@ function () {
        
     });
 
-    function OnSubmit() {
-        var url = '@Url.Action("SearchProductResults", "Product")';
-        $('#tblSearchResult').load(url, { ProductName: $("#SearchProductName").val(), ProductPrice: $("#SearchProductPrice").val(), CategoryName: $("#SearchCategoryName").val(), StoreId: $('#aioStoreName').find(":selected").val() });
-    }
 
 </script>

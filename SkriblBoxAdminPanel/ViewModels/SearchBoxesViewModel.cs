@@ -37,5 +37,28 @@ namespace BasketWebPanel.ViewModels
         public DateTime CreatedDate { get; set; }
 
         public DateTime ReleaseDate { get; set; }
+
+        public AppCategoryViewModel Category { get; set; }
+
+    }
+
+    public class AppCategoryViewModel
+    {
+        public int Id { get; set; }
+
+        public string Name { get; set; }
+
+        public string Description { get; set; }
+
+        public short Status { get; set; }
+
+        public string ImageUrl { get; set; }
+
+        public int ParentCategoryId { get; set; }
+
+        public bool IsDeleted { get; set; }
+
+        public int? Sorting { get; set; }
+
     }
 }
