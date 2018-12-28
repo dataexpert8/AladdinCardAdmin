@@ -184,6 +184,7 @@
     <Compile Include="Areas\Dashboard\Controllers\AdminController.cs" />
     <Compile Include="Areas\Dashboard\Controllers\BoxController.cs" />
     <Compile Include="Areas\Dashboard\Controllers\CategoriesController.cs" />
+    <Compile Include="Areas\Dashboard\Controllers\CityController.cs" />
     <Compile Include="Areas\Dashboard\Controllers\DeliveryController.cs" />
     <Compile Include="Areas\Dashboard\Controllers\HomeController.cs" />
     <Compile Include="Areas\Dashboard\Controllers\NotificationsController.cs" />
@@ -221,6 +222,7 @@
     <Compile Include="ViewModels\AddHowItWorksViewModel.cs" />
     <Compile Include="ViewModels\AddNewPostViewModel.cs" />
     <Compile Include="ViewModels\AddOfferViewModel.cs" />
+    <Compile Include="ViewModels\CityModels.cs" />
     <Compile Include="ViewModels\HowItWorksBindingModel.cs" />
     <Compile Include="ViewModels\OfferViewModel.cs" />
     <Compile Include="ViewModels\OrderViewModel.cs" />
@@ -1058,6 +1060,8 @@
     <Content Include="Areas\Dashboard\Views\Posts\ManagePosts.cshtml" />
     <Content Include="Scripts\angular.min.js.map" />
     <Content Include="Areas\Dashboard\Views\Product\ManageRequests.cshtml" />
+    <Content Include="Areas\Dashboard\Views\City\Index.cshtml" />
+    <Content Include="Areas\Dashboard\Views\City\ManageCities.cshtml" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\Chart\Chart.js" />

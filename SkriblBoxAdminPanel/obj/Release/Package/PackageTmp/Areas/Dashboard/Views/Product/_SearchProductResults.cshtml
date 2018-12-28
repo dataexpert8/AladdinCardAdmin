@@ -86,7 +86,7 @@
 @Scripts.Render("~/bundles/jquery")
 <script>
 
-        $.noConflict();
+    
         $(document).on("click", ".deleteButtons", function () {
                                 var productId = $(this).data('productid');
                                 $("#productid").val(productId);
@@ -100,20 +100,8 @@
 
         $(document).ready(function () {
             var dataTable = $('#datatable').DataTable({
-                "pagingType": "full_numbers",
-                "columnDefs": [{
-                    "targets": 5,
-                    "orderable": false
-                },
-                {
-                    "targets": 6,
-                    "orderable": false
-                },
-                {
-                    "targets": 7,
-                    "orderable": false
-                }
-                ]
+                "pagingType": "full_numbers"-
+               
             });
         });
 

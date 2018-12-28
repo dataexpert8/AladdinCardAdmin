@@ -151,6 +151,15 @@
                                 @if (Model.Role == Utility.RoleTypes.SuperAdmin)
     {
                             <li>
+                                <a><i class="fa fa-sitemap"></i> City <span class="fa fa-chevron-down"></span></a>
+                                <ul class="nav child_menu">
+                                    <li>
+                                        <a href="@Url.Action("Index","City")">Add New City</a>
+                                        <a href="@Url.Action("ManageCities","City")">Manage City</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
                                 <a><i class="fa fa-sitemap"></i> Brand <span class="fa fa-chevron-down"></span></a>
                                 <ul class="nav child_menu">
                                     <li>
@@ -329,7 +338,7 @@
             <footer>
                 <div class="pull-right">
                     @*Gentelella - Bootstrap Admin Template by <a href="https://colorlib.com">Colorlib</a>*@
-                    <span style="font-size:15px">Powered by    </span> <a href="https://www.ingic.ae/" target="_blank"><img height="20px" width="70px" src="~/Content/images/ingic.png"></a>
+     
                 </div>
                 <div class="clearfix"></div>
             </footer>

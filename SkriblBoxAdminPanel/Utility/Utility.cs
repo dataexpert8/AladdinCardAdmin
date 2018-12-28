@@ -134,7 +134,8 @@ namespace BasketWebPanel
             Admin,
             Offer,
             Box,
-            Post
+            Post,
+            City
         }
 
         public enum PaymentMethods

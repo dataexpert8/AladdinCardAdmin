@@ -51,6 +51,12 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Areas/Dashboard/Views/Categories/_SearchCategoryResults.cshtml">
       <publishTime>11/27/2017 13:12:06</publishTime>
     </File>
+    <File Include="Areas/Dashboard/Views/City/Index.cshtml">
+      <publishTime>12/22/2018 14:39:32</publishTime>
+    </File>
+    <File Include="Areas/Dashboard/Views/City/ManageCities.cshtml">
+      <publishTime>12/22/2018 14:34:09</publishTime>
+    </File>
     <File Include="Areas/Dashboard/Views/Delivery/Index.cshtml">
       <publishTime>11/27/2017 13:12:06</publishTime>
     </File>
@@ -130,7 +136,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/27/2017 13:12:06</publishTime>
     </File>
     <File Include="Areas/Dashboard/Views/Product/Index.cshtml">
-      <publishTime>12/14/2018 02:14:21</publishTime>
+      <publishTime>12/22/2018 14:02:03</publishTime>
     </File>
     <File Include="Areas/Dashboard/Views/Product/ManageProducts.cshtml">
       <publishTime>12/17/2018 00:05:13</publishTime>
@@ -145,7 +151,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/16/2018 23:59:10</publishTime>
     </File>
     <File Include="Areas/Dashboard/Views/Product/_SearchProductResults.cshtml">
-      <publishTime>12/16/2018 23:55:46</publishTime>
+      <publishTime>12/17/2018 01:29:36</publishTime>
     </File>
     <File Include="Areas/Dashboard/Views/Settings/Index.cshtml">
       <publishTime>12/27/2017 10:36:53</publishTime>
@@ -199,10 +205,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/22/2013 08:43:40</publishTime>
     </File>
     <File Include="bin/BasketWebPanel.dll">
-      <publishTime>12/17/2018 00:11:24</publishTime>
+      <publishTime>12/22/2018 14:41:19</publishTime>
     </File>
     <File Include="bin/BasketWebPanel.pdb">
-      <publishTime>12/17/2018 00:11:24</publishTime>
+      <publishTime>12/22/2018 14:41:19</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>03/02/2015 09:32:26</publishTime>
@@ -2917,7 +2923,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/27/2017 13:12:07</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>12/02/2018 23:32:16</publishTime>
+      <publishTime>12/22/2018 14:25:17</publishTime>
     </File>
     <File Include="Views/Shared/_LoginPartial.cshtml">
       <publishTime>11/27/2017 13:12:07</publishTime>
@@ -2929,7 +2935,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/27/2017 13:12:07</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>12/13/2018 01:23:00</publishTime>
+      <publishTime>12/22/2018 14:41:31</publishTime>
     </File>
   </ItemGroup>
 </Project>
